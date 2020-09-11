@@ -1,6 +1,6 @@
 class PagesController < ApplicationController
     
-    def situation
+    def home
     end
 
 
